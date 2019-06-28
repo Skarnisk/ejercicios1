@@ -4,6 +4,7 @@ class invertido(object):
 
     def reves(self):
         return self.frase[::-1]
+    #olis
 
 
 
